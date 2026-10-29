@@ -33,6 +33,11 @@ whether total emissions or per-capita emissions.
 
 <img width="692" height="899" alt="image" src="https://github.com/user-attachments/assets/3db5ea75-ac43-483b-b381-1485b5ddbb1d" />
 
+<img width="695" height="897" alt="image" src="https://github.com/user-attachments/assets/3b8aae47-a4d3-4e56-a20f-9a23bf30ae7d" />
+
+<img width="694" height="897" alt="image" src="https://github.com/user-attachments/assets/78824abb-7dae-4068-a5d2-b455ff8f2d4c" />
+
+<img width="696" height="898" alt="image" src="https://github.com/user-attachments/assets/206e20ff-66df-47e9-80f1-b10c1f6230bb" />
 
 
 
@@ -46,4 +51,4 @@ whether total emissions or per-capita emissions.
 
 <img width="1348" height="952" alt="image" src="https://github.com/user-attachments/assets/dfebca3a-9a54-4cc8-b2d9-e44871788d20" />
 
-<img width="695" height="897" alt="image" src="https://github.com/user-attachments/assets/7a0b4b0a-1c8e-4660-9f03-507e3a15d641" />
+
