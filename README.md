@@ -20,6 +20,22 @@ whether total emissions or per-capita emissions.
 [Final Report](./Final%20Project%20Report.pdf)
 
 [Dashboard](./Mod7_FinalPjct.twb)
+### Screenshots of Final Report
+<img width="694" height="895" alt="image" src="https://github.com/user-attachments/assets/212c3fdc-e58a-4027-9eba-b00385def365" />
+
+<img width="694" height="897" alt="image" src="https://github.com/user-attachments/assets/df9958f8-e729-4e8b-bc50-f96549591157" />
+
+<img width="691" height="894" alt="image" src="https://github.com/user-attachments/assets/59d78618-5812-4c43-a0cd-760af18684cb" />
+
+<img width="691" height="896" alt="image" src="https://github.com/user-attachments/assets/89bf02c7-9ea1-48ad-a236-3a21d3155d05" />
+
+<img width="691" height="894" alt="image" src="https://github.com/user-attachments/assets/e63bb671-750a-420f-ace0-e30ec7751abd" />
+
+<img width="692" height="899" alt="image" src="https://github.com/user-attachments/assets/3db5ea75-ac43-483b-b381-1485b5ddbb1d" />
+
+
+
+
 ### Screenshots of Dashboards
 
 <img width="1349" height="953" alt="image" src="https://github.com/user-attachments/assets/05702b32-e0a5-438e-a733-8979320e46fc" />
@@ -30,3 +46,4 @@ whether total emissions or per-capita emissions.
 
 <img width="1348" height="952" alt="image" src="https://github.com/user-attachments/assets/dfebca3a-9a54-4cc8-b2d9-e44871788d20" />
 
+<img width="695" height="897" alt="image" src="https://github.com/user-attachments/assets/7a0b4b0a-1c8e-4660-9f03-507e3a15d641" />
