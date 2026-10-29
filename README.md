@@ -1,5 +1,5 @@
 # Global-Greenhouse-Gas-Emissions
-Using a dataset published by Our World Data and obtained from kaggle, my analysis demonstrates how global level and country level greenhouse gas (Ghg) emission patterns changed from 1950 to 2024.
+Tableau, data visualizations, storytelling with data, Excel, statistical analysis, exploratory data analysis, absolute and relative % values
 
 ## Project Description
 The task requirements for the class assignment included exploratory and explanatory analysis of a dataset, chosen from a reputable source, using charts that include measures of variation, correlation, ratio, tables, time series, rank, whole-part, deviation, distribution, etc. Both absolute and relative (%) values should be considered. Report the findings and include generated charts that supports the work and shows the thought process, whether fruitful or not. Data sources are to be described, their challenges, and any key findings. The purpose of each visualization must be explained, why it was chosen, and why it was effective; explain those generated but not used.
