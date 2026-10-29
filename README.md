@@ -2,8 +2,20 @@
 Using a dataset published by Our World Data and obtained from kaggle, my analysis demonstrates how global level and country level greenhouse gas (Ghg) emission patterns changed from 1950 to 2024.
 
 ## Project Description
-The task requirements for the assignment included exploratory and explanatory analysis using charts that include measures of variation, correlation, ratio, tables, time series, rank, whole-part, deviation, distribution, etc. Both absolute and relative (%) values should be considered. Report the findings and include generated charts that supports the work and shows the thought process, whether fruitful or not. Data sources are to be described, their challenges, and any key findings. The purpose of each visualization must be explained, why it was chosen, and why it was effective; explain those generated but not used.
+The task requirements for the class assignment included exploratory and explanatory analysis of a dataset, chosen from a reputable source, using charts that include measures of variation, correlation, ratio, tables, time series, rank, whole-part, deviation, distribution, etc. Both absolute and relative (%) values should be considered. Report the findings and include generated charts that supports the work and shows the thought process, whether fruitful or not. Data sources are to be described, their challenges, and any key findings. The purpose of each visualization must be explained, why it was chosen, and why it was effective; explain those generated but not used.
+
+I obtained my dataset from kaggle. The dataset was published by Our World Data, which integrated several sources of information widely used in climate research. The dataset contained both total greenhouse gas emissions and greenhouse gas emissions per capita for more than 190 countries over the 74-year time span from 1950 to 2024.
+
+The summary report uses visualizations of the data to demonstrate how global level and country level greenhouse gas emission patterns changed from 1950 to 2024. Using both charts and tables, observations may be made on long-term global trends, geographic distributions, differences among countries, and where the largest increases and decreases in emissions occurred over the time span.
 ## Key Findings
+The structure of global emissions has shifted from 1950 to 2024, with emerging economies 
+playing a larger role. Some countries made significant progress in emissions output, while 
+others experienced large increases in emissions, which shows the diversity of nations 
+among key areas.  
+Global emissions have risen substantially, but per-capita emissions have not grown at the 
+same rate. Emissions are unevenly distributed between countries, and care must be taken 
+when discussing emissions rates that the metric used in those discussions is considered, 
+whether total emissions or per-capita emissions.
 ### Final Report & Dashboard
 [Final Report](./Final%20Project%20Report.pdf)
 
