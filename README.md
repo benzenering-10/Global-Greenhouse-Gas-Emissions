@@ -23,7 +23,7 @@ whether total emissions or per-capita emissions.
 ### Screenshots of Final Report
 <img width="694" height="895" alt="image" src="https://github.com/user-attachments/assets/212c3fdc-e58a-4027-9eba-b00385def365" />
 
-<img width="694" height="897" alt="image" src="https://github.com/user-attachments/assets/df9958f8-e729-4e8b-bc50-f96549591157" />
+<img width="696" height="895" alt="image" src="https://github.com/user-attachments/assets/3eb7b3a1-a579-40a1-a7c0-30c7cdb6c592" />
 
 <img width="691" height="894" alt="image" src="https://github.com/user-attachments/assets/59d78618-5812-4c43-a0cd-760af18684cb" />
 
